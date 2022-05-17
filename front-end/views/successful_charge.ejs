@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Login page</title>
+</head>
+<style>
+    span {
+        background-color: #ffffff;
+    }
+    h2 {text-align: center;}
+    p {text-align: center;}
+    form {text-align: center;}
+    img {
+        width: 100%;
+        height: 100%;
+    }
+    body {
+        background-image: url('https://media.wired.com/photos/5926a2ccaf95806129f501e9/master/pass/TesleSuperCharger_HP_AP_788238699049.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+</style>
+<body>
+<h2>Charged Successfully</h2>
+<form action="../../api/logout" method="POST">
+    <input type="hidden" id="token" name="token" value=<%=token%>>
+    <input type="hidden" id="username" name="username" value=<%=username%>>
+    <button type="submit">Logout</button>
+</form>
+</body>
+</html>

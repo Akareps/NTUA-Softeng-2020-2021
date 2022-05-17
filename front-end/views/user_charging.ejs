@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Login page</title>
+</head>
+<style>
+    span {
+        background-color: #ffffff;
+    }
+    h2 {text-align: center;}
+    p {text-align: center;}
+    form {text-align: center;}
+    img {
+        width: 100%;
+        height: 100%;
+    }
+    body {
+        background-image: url('https://media.wired.com/photos/5926a2ccaf95806129f501e9/master/pass/TesleSuperCharger_HP_AP_788238699049.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+</style>
+<body>
+<h2>Welcome <%=firstName%></h2>
+<form action="../../api/charge/" method="POST">
+    <label for="carid">Car ID:</label><br>
+    <input type="text" id="carid" name="carid"><br>
+    <label for="ownerid">Owner ID:</label><br>
+    <input type="text" id="ownerid" name="ownerid"><br>
+    <label for="pointid">Point ID:</label><br>
+    <input type="text" id="pointid" name="pointid"><br>
+    <label for="stationid">Station ID:</label><br>
+    <input type="text" id="stationid" name="stationid"><br>
+    <label for="energy">Energy consumed:</label><br>
+    <input type="text" id="energy" name="energy"><br>
+    <input type="checkbox" id="payment" name="payment" value="payment">
+    <label for="payment"> Pay now?</label><br>
+    <input type="hidden" id="token" name="token" value=<%=token%>>
+    <input type="hidden" id="username" name="username" value=<%=username%>>
+    <input type="submit" value="Submit">
+</form>
+<br>
+<form action="../../api/logout" method="POST">
+    <input type="hidden" id="token" name="token" value=<%=token%>>
+    <input type="hidden" id="username" name="username" value=<%=username%>>
+    <button type="submit">Logout</button>
+</form>
+</body>
+</html>

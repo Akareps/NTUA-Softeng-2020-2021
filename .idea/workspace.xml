@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8676220-8a5a-4c04-b0fc-235b2129a863" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c22a83d7-63b7-4b93-9832-5868667fefa2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c22a83d7-63b7-4b93-9832-5868667fefa2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/back-end/Controllers/controllers.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Controllers/controllers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/database/createDatabase.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/database/createDatabase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/database/sql_queries_owners.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/database/sql_queries_owners.js" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/mochatest/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/mochatest/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mochatest/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mochatest/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mochatest/test/indexTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/mochatest/test/indexTest.js" afterDir="false" />
+>>>>>>> 1932e5cba9334e569e8c0994d38d602b86b2e785
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pR0awLUCca4BYTGAhEdtOi8XZp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/back-end/database/password.js" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TL19-65-master" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="E:\IntelliJ IDEA 2020.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Antreas\Desktop\Projects\TL20202021\front-end" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Antreas\Desktop\Projects\TL20202021\back-end" />
+      <recent name="C:\Users\Antreas\Desktop\Projects\TL20202021\front-end\views" />
+    </key>
+  </component>
+<<<<<<< HEAD
+  <component name="RunManager" selected="Node.js.database.js">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+=======
+  <component name="RunManager" selected="Node.js.app.js (2)">
+>>>>>>> 1932e5cba9334e569e8c0994d38d602b86b2e785
+    <configuration name="app.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/backend/app.js" working-dir="$PROJECT_DIR$/backend">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/back-end/app.js" working-dir="$PROJECT_DIR$/back-end">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="database.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/back-end/database/database.js" working-dir="$PROJECT_DIR$/back-end/database">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.database.js" />
+        <item itemvalue="Node.js.app.js (2)" />
+        <item itemvalue="Node.js.app.js (1)" />
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SQLPlugin.ProjectConfiguration">
+    <queries />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8676220-8a5a-4c04-b0fc-235b2129a863" name="Default Changelist" comment="" />
+      <created>1615130663401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615130663401</updated>
+      <workItem from="1615130664542" duration="18674000" />
+      <workItem from="1615208862248" duration="955000" />
+      <workItem from="1615216376583" duration="8691000" />
+      <workItem from="1615283689244" duration="183000" />
+      <workItem from="1615293439592" duration="1404000" />
+      <workItem from="1615365428917" duration="2852000" />
+      <workItem from="1615379515020" duration="1587000" />
+      <workItem from="1615381144687" duration="325000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
